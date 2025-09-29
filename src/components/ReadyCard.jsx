@@ -1,5 +1,3 @@
-import React from 'react';
-
 const ReadyCard = ({ order, handleReayItemRemove }) => {
   return (
     <div className="border-1 border-amber-400 p-5 rounded-2xl space-y-2">
